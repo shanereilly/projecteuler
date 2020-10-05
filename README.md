@@ -1,2 +1,2 @@
 # projectEuler
-My Project Euler solution in NASM x86
+My Project Euler solutions in various programming languages.
